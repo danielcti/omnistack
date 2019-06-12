@@ -5,4 +5,3 @@
 ## Tecnologias utilizadas: 
 - JavaScript
 - Express
-- React
